@@ -1,4 +1,4 @@
-![Cortex Social Card](assets/images/CortexCouncilSC.png)
+![Cortex Social Card](../assets/images/CortexCouncilSC.png)
 
 ## **Cortex Council Workspace**
 

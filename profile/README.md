@@ -1,4 +1,4 @@
-![Cortex Social Card](assets/images/CortexCouncilSC.png)
+![Cortex Social Card](../assets/images/CortexCouncilSC.png)
 
 *Read this in other languages: [Brazilian Portuguese - Português do Brasil](profile/README_pt-BR.md), [Spanish - Español](profile/README_es.md)*
 
