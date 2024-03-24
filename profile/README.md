@@ -1,5 +1,7 @@
 ![Cortex Social Card](assets/images/CortexCouncilSC.png)
 
+*Read this in other languages: [Brazilian Portuguese - Português do Brasil](README_pt-BR.md), [Spanish - Español](README_es.md)*
+
 ## **Cortex Council Workspace**
 
 The Cortex Council Workspace is your innovation hub for the Google Cloud Cortex Framework. This collaborative space brings together the brightest minds from Google, our valued customers, and pioneering partners. Our mission? 
@@ -20,9 +22,10 @@ The Cortex Council Workspace welcomes everyone.
 
 ## **About Cortex**
 
-A fundação de Dados para [Google Cloud Cortex Framework](https://cloud.google.com/solutions/cortex) é um conjunto de artefatos analíticos que podem ser implantados automaticamente junto com arquiteturas de referência.
+The Data Foundation for [Google Cloud Cortex Framework](https://cloud.google.com/solutions/cortex) is a set of analytical artifacts that can be automatically deployed together with reference architectures.
 
-O repositório atual contém a documentação sobre as visualizações e modelos analíticos que servem como camada de dados fundamental para o Google Cloud Cortex Framework no BigQuery.
+The current repository contains the documentation about the analytical views and models that serve as a foundational data layer for the Google Cloud Cortex Framework in BigQuery.
+
 
 ## **License**
 This source code is licensed under Apache 2.0. Full license text is available in [LICENSE](https://github.com/CortexCouncilWorkspace/CCWSite/blob/main/LICENSE).
