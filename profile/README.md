@@ -1,7 +1,9 @@
 ![Cortex Social Card](assets/images/CortexCouncilSC.png)
 
-*Read this in other languages / Leia isto em outros idiomas(pt-BR) / Lee esto en otros idiomas(es): 
+*Read this in other languages(en) / Leia isto em outros idiomas(pt-BR) / Lee esto en otros idiomas(es): 
+
 [Brazilian Portuguese - Português do Brasil](profile/README_pt-BR.md) 
+
 [Spanish - Español](profile/README_es.md)*
 
 ## **Cortex Council Workspace**
