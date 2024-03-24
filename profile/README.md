@@ -25,4 +25,4 @@ A fundação de Dados para [Google Cloud Cortex Framework](https://cloud.google.
 O repositório atual contém a documentação sobre as visualizações e modelos analíticos que servem como camada de dados fundamental para o Google Cloud Cortex Framework no BigQuery.
 
 ## **License**
-This source code is licensed under Apache 2.0. Full license text is available in [LICENSE](https://github.com/GoogleCloudPlatform/cortex-data-foundation/blob/main/LICENSE).
+This source code is licensed under Apache 2.0. Full license text is available in [LICENSE](https://github.com/CortexCouncilWorkspace/CCWSite/blob/main/LICENSE).
